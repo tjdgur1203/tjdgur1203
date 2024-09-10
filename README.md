@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Yang seong hyuk 
+I'm Yang seong hyuk </br>
 my major is artificial intelligence 
 <!--
 **tjdgur1203/tjdgur1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
